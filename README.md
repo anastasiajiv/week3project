@@ -54,11 +54,17 @@
 
 > The java code provided in the Calling_API.java file shows a simple
 > example of calling the API from java. The call within the code
-> retrieves the same information as in figure 2.
+> retrieves the data from an api call made on postman (see figure 3 below) to find a singular food item given a minimum sugar
+> and minimum sodium parameter. The output from the java call can be seen in Figure 4.
 
 # Figures
 ![Figure 1](Figure1.png)
 > Figure 1
 
-![Figure 1](Figure2.png)
+![Figure 2](Figure2.png)
 > Figure 2
+
+![Figure 3](Figure2.png)
+> Figure 3
+
+
