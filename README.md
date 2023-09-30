@@ -21,7 +21,7 @@
 > nutritional goals.
 >
 > To deliver this application, our team will create an intuitive and
-> user centric interface. Users will first be able to create an account
+> user-centric interface. Users will first be able to create an account
 > and then within the interface there will be options for users to input
 > their dietary information, to set their personal goals, and to access
 > recommendations by the application. The user will be able to adjust
